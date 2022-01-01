@@ -12,3 +12,4 @@ This is a single-hue, sequential choropleth map that shows the percentage of dea
 
 Yeezy_VS_Off_White_2019.pdf: 
 This is a hobby project. I created a dot density map to show the annual sales of Yeezy 350 V2 and the annual sales of Off-White (The Ten). Each dot represents 20 purchases. The original data comes from StackX in 2019. 
+
